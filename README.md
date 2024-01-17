@@ -2,7 +2,7 @@
 
 CitiBike Bike Rides in Summer 2023 (Jun - Aug)
 
-Tableau Public : https://public.tableau.com/views/Tableau_Challenge_17049506631840/Dashboard5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Tableau Public : https://public.tableau.com/app/profile/anita.kumar6060/viz/Tableau_Challenge_17049506631840/Story?publish=yes
 
 Overview:
 
